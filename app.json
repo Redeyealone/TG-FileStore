@@ -1,5 +1,5 @@
 {
-    "name": "File Store Bot",
+    "name": "Redeye_file_store_bot",
     "description": "A Telegram Files Store Bot to protect your Files in Pyrogram by @TheTeleRoid",
     "keywords": [
         "telegram",
@@ -43,7 +43,7 @@
     },
     "buildpacks": [
         {
-            "url": "heroku/python15"
+            "url": "heroku/python"
         }
     ],
     "formation": {
